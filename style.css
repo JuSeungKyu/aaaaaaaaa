@@ -1,0 +1,44 @@
+.TextCenterAlign{
+	text-align: center;
+}
+
+.centerAlign{
+	margin: auto;
+	text-align: center;
+}
+
+.marginTop100{
+	margin-top: 30px;
+}
+
+#indexBackground{
+	background-image: url('images/보노보노.png');
+	background-size: cover;
+}
+
+#mode1Background{
+	background-image: url('images/보노보노2.png');
+	background-size: cover;
+}
+
+#mode2Background{
+	background-image: url('images/보노보노.png');
+	background-size: cover;
+}
+
+#mode3Background{
+	background-image: url('images/보노보노.png');
+	background-size: cover;
+}
+
+a{
+	line-height: 3em;
+}
+
+h1{
+	font-size: 80px;
+}
+
+h2{
+	font-size: 40px;
+}
